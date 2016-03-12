@@ -96,3 +96,7 @@ article content
 ```
 
 If you don't respect this syntax, then the article won't show up in the resulting website.
+
+You can also put some MathJax inside articles!
+
+$$\varphi_{f(n)}=\varphi_n$$
